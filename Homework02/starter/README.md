@@ -15,7 +15,7 @@ Please complete two webpages:
 ```
 Note: you do not have to type in the contents of the page.
 ```
-- The text of the article is contained within `listicle-content.txt`, which is included in your Homework 1 starter code.
+- The text of the article is contained within `listicle-content.txt`, which is included in your Homework 2 starter code.
 
 - Copy and paste the text of `listicle-content.txt` into your `listicle.html` file, then add the HTML tags necessary to style the page. 
 
@@ -29,7 +29,7 @@ Note: you do not have to type in the contents of the page.
 
 3. Font faces, sizes, and colors
 
-Page Title: 
+**Page Title**: 
 
 <img src="guidelinematerials/hw2-title.png" />
 - The font face is `'Roboto Slab'` and the fallback font is serif.
@@ -43,7 +43,7 @@ Page Title:
 - The title is vertical and center aligned to the header image.
 
 
-Profile Text:
+**Profile Text**:
 
 <img src="guidelinematerials/hw2-profile.png" />
 
@@ -59,7 +59,7 @@ Profile Text:
 - The line height `24px`.
 - The gray line under the “Last updated” line is `10px` under the text, `2px` wide, and the color is `#e6e6e6`.
 
-Body: 
+**Body**: 
 
 <img src="guidelinematerials/hw2-body.png"/>
 
@@ -157,7 +157,7 @@ For full credit, please abide by the following:
 - **Use descriptive names, consistent spacing**, and otherwise follow good code hygiene.
 
 
-==========================================================
+=================================================================================
 # Part2:  Your Listicle 
 
 Design your own listicle! You should write the content in `my-list.html` and the style in `my-list-style.css`.

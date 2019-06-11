@@ -32,7 +32,7 @@ Note: you do not have to type in the contents of the page.
 **Page Title**: 
 
 <img src="guidelinematerials/hw2-title.png" />
-- The font face is `'Roboto Slab'` and the fallback font is serif.
+- The font face is `Roboto Slab` and the fallback font is serif.
 
 - The font size is `36px`.
 
